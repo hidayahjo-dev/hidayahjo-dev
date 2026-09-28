@@ -8,11 +8,6 @@ I previously worked in web development, which gives me a strong application-deve
 
 My current work focuses on designing, deploying, automating, and operating applications using technologies such as Azure, Docker, GitHub Actions, Terraform, Linux, and Python.
 
-
-### Let's Connect 🤝
-
-LinkedIn • Portfolio • Email
-
 ---
 
 ## 🚀 Featured Projects
