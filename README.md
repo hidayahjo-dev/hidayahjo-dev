@@ -2,9 +2,9 @@
 
 ### Cloud & DevOps Engineer | Azure • Docker • CI/CD • Linux • Infrastructure as Code
 
-I'm focused on building my career in Cloud & DevOps, with hands-on experience across cloud infrastructure, containerisation, CI/CD, Linux, automation, application deployment, monitoring, and scalability.
+Focused on building my career in Cloud & DevOps, with hands-on experience across cloud infrastructure, containerisation, CI/CD, Linux, automation, application deployment, monitoring, and scalability.
 
-I previously worked in web development, which gives me a strong application-development foundation and helps me understand how software moves from code to production.
+Passionate and keen interest in web development, which gives me a strong application-development foundation and helps me understand how software moves from code to production.
 
 My current work focuses on designing, deploying, automating, and operating applications using technologies such as Azure, Docker, GitHub Actions, Terraform, Linux, and Python.
 
